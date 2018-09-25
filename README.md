@@ -16,13 +16,13 @@
 * Ensure that all the files are located in the same folder which must be called **Trout_Simulator**
 ## CONTROLS
 * There are four options regarding the position of the camera:
-  1) Press 'F' to position the camera at the front of the pool
-  2) Press 'B' to position the camera at the back of the pool
-  3) Press 'E' to position the camera overhead, i.e. to get a bird's-eye view
-  4) Press 'S' to position the camera at the side of the pool (this is the default view)
-* It is also possible to pause the simulation by pressing 'P'
-* Clicking the 'Play' button will start the simulation
-* To end the simulation, simply click the 'Stop' button in the upper left hand corner or just exit out of the simulation 
+  1) Press **F** to position the camera at the front of the pool
+  2) Press **B** to position the camera at the back of the pool
+  3) Press **E** to position the camera overhead, i.e. to get a bird's-eye view
+  4) Press **S** to position the camera at the side of the pool (this is the default view)
+* It is also possible to pause the simulation by pressing **P**
+* Clicking the **Play** button will start the simulation
+* To end the simulation, simply click the **Stop** button in the upper left hand corner or just exit out of the simulation 
   window 
 ## DESIGN
 * The design of the fish attempted to replicate the design of Terzopoulos, Tu, and Grzeszczuk. Each fish was comprised of 23 
