@@ -52,6 +52,6 @@
   positions.
 ## ENVIRONMENT
 * With no force of gravity, the fish are neutrally buoyant
-* *Current* is a constant force in the environment that the fish must overcome to achieve forward propulsion. Though it can also   
+* *Current* is a constant force in the environment that the fish must overcome to achieve forward propulsion. Though it can also 
   be used to accelerate in the backward direction should the fish choose to reverse
 * Current moves right to left - the same direction each item of food is moving
