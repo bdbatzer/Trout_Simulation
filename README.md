@@ -6,4 +6,4 @@
   spring-mass system where contractions of springs replicate the biological contraction of muscle. Reactive forces, produced when 
   the outer surface of the artificial fish pushes against the surrounding water, propel the fish forward. Much of this, 
   particularly the structure of the fish model, was drawn from the work of Demetri Terzopoulos, Xiaoyuan Tu, and Radek Grzeszczuk 
-  at the University of Toronto. (You can find that work [here] (http://web.cs.ucla.edu/~dt/papers/alifej94/alifej94.pdf))
+  at the University of Toronto. You can find that work [here] (http://web.cs.ucla.edu/~dt/papers/alifej94/alifej94.pdf)
