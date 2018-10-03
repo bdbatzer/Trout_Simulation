@@ -46,9 +46,9 @@
   80 and 145 - 80 being the shortest time period and thus fastest.  
 * Spring forces alone though are insufficient for allowing the fish to move around its 3D environment. External hyrdodynamic 
   force is also necessary. Surfaces, defined as the area between different masses along the fish's skin, each produce a reactive 
-  force in response to outward velocity (i.e. the surface's movement away the center of mass of the fish). These reactive forces 
-  provide resistance that prevent the fish from moving too rapidly in any direction, and also generate a propulsion force when 
-  the tail moves side-to-side
+  force in response to outward velocity (i.e. the surface's movement in the direction away from the inside of the fish). These 
+  reactive forces provide resistance that prevent the fish from moving too rapidly in any direction, and also generate a 
+  propulsion force when the tail moves side-to-side
 * Each fish has a starting y-position (elevation) and z-position (depth) that they will attempt to return to should they venture 
   too far away. This is an attempt to simulate real trout which tend to establish a territorial position in the pool they 
   inhabit. There is also a small collision-avoidance steering force that further encourages the fish to keep to their own 
