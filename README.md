@@ -8,8 +8,8 @@
   particularly the structure of the fish model, was drawn from the work of Demetri Terzopoulos, Xiaoyuan Tu, and Radek 
   Grzeszczuk at the University of Toronto. You can find that work [here](http://web.cs.ucla.edu/~dt/papers/alifej94/alifej94.pdf)
 ## DEMONSTRATION
-* You can view a video demonstration of the simulation [here](https://youtu.be/o1kP8HgYBm0). It's eight and a half minutes long
-  and shows the simulation running from various camera angles while I talk a little bit about mechanics
+* You can view a video demonstration of the simulation by clicking **[here](https://youtu.be/o1kP8HgYBm0)**. It's eight and a 
+  half minutes long and shows the simulation running from various camera angles while I talk a little bit about mechanics
 ## PREREQUISITES/INSTALLATION
 * The only thing you will need to run the simulation is [Processing](https://processing.org/), which can be acquired here: 
   *  https://processing.org/download/
